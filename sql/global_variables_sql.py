@@ -1,3 +1,4 @@
+# Ported from The-TG-Bot-2.0
 # global variables will be assigned here
 # can be imported in any module to make life easier.
 from heroku_config import Var
@@ -12,6 +13,6 @@ MODULE_LIST = []
 ERROR_LIST = []
 # add syntax to this dictionary using SYNTAX.update()
 SYNTAX = {}
-# add errors to this dictionary using ERROR.update()
-ERROR = {}
+# add errors to this dictionary using SOLUTION.update()
+SOLUTION = {}
 BUILD = "USER-49x03"
