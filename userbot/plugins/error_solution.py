@@ -6,10 +6,8 @@ from telethon import events
 from userbot.utils import admin_cmd
 import asyncio
 from telethon.tl import functions, types
-from sql.global_variables_sql import SYNTAX, MODULE_LIST, ERROR, ERROR_LIST
+from sql.global_variables_sql import SYNTAX, MODULE_LIST, SOLUTION, ERROR_LIST
 
-
-MODULE_LIST.append("solution")
 
 @borg.on(admin_cmd(pattern="solution ?(.*)"))
 async def _(event):
@@ -17,8 +15,8 @@ async def _(event):
             return
         err = event.pattern_match.group(1)
         if err:
-            if err in ERROR:
-                await event.edit(ERROR[err])
+            if err in SOLUTION:
+                await event.edit(SOLUTION[err])
             else:
                 await event.edit("No information for this error yet!\n**Tip: Get a list of all errors using .errors**")
         else:
