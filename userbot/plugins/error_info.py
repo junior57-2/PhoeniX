@@ -2,7 +2,7 @@
 # By @Techy05 (DON'T REMOVE THESE LINES)
 ## Don't modify this module
 
-from sql.global_variables_sql import SYNTAX, MODULE_LIST, ERROR, ERROR_LIST
+from sql.global_variables_sql import SYNTAX, MODULE_LIST, SOLUTION, ERROR_LIST
 
 MODULE_LIST.append("errors")
 SYNTAX.update({
@@ -17,7 +17,7 @@ SYNTAX.update({
 })
 
 ERROR_LIST.append("updater not working")
-ERROR.update({
+SOLUTION.update({
     "updater not working": "\
 **So, you're having problems with updater. PhoeniX Service will fix it.**\
 \n\nERROR: `Unfortunately, the directory /app does not seem to be a git repository.`\
