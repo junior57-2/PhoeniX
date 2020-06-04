@@ -11,6 +11,7 @@ import requests
 import math
 from userbot.utils import register
 from userbot.utils import admin_cmd
+from sql.global_variables_sql import MODULE_LIST
 
 
 Heroku = heroku3.from_key(Var.HEROKU_API_KEY)
@@ -152,7 +153,9 @@ async def dyno_usage(dyno):
                            )
 
 
-@command(pattern="^.info heroku")
+MODULE_LIST.append("heroku")
+
+@command(pattern="^.syntax heroku")
 async def info(event):
     await borg.send_message(event.chat_id, "**Info for Module to Manage Heroku:**\n\n`.usage`\nUsage:__Check your heroku dyno hours status.__\n\n`.set var <NEW VAR> <VALUE>`\nUsage: __add new variable or update existing value variable__\n**!!! WARNING !!!, after setting a variable the bot will restart.**\n\n`.get var or .get var <VAR>`\nUsage: __get your existing varibles, use it only on your private group!__\n**This returns all of your private information, please be cautious...**\n\n`.del var <VAR>`\nUsage: __delete existing variable__\n**!!! WARNING !!!, after deleting variable the bot will restarted**")
     await event.delete()
