@@ -10,15 +10,20 @@ If use these plugins, then it is at your own risk. Don't blame me if you get ban
 # Credits:
 
 Raphielgang/Paperplane
+
 SpEcHiDe/Uniborg
+
 Dark-Princ3/X-tra-Telegram
+
 PriyamKalra/The-TG-Bot-2.0
+
 
 I took some plugins from @Hack12R/HardcoreUserbot. I don't know who is their owner. If you know you can tell me at @HawkEyesMohak
 
 ### And some collaborators/testers :-)
 
 @JAISHNAVPRASAD-Darklious
+
 @blacklytning
 
 
