@@ -1,7 +1,7 @@
-"""Update UserBot code (for Xtra-Telegram)
+"""Update UserBot code (Taken from Xtra-Telegram)
 Syntax: .update
 \nAll Credits goes to © @Three_Cube_TeKnoways
-\nFor this awasome plugin.\nPorted from PpaperPlane Extended"""
+\nFor this awasome plugin.\nPorted from PaperPlane Extended"""
 
 from os import remove
 from os import execl
@@ -44,7 +44,7 @@ IS_SELECTED_DIFFERENT_BRANCH = (
     "in this case, Updater is unable to identify the branch to be updated."
     "please check out to an official branch, and re-start the updater."
 )
-OFFICIAL_UPSTREAM_REPO = "https://github.com/MPSinGH2005/X-tra-Telegram"
+OFFICIAL_UPSTREAM_REPO = "https://github.com/Techy05/PhoeniX"
 BOT_IS_UP_TO_DATE = "`The userbot is up-to-date.\nThank you for Using this Service.`"
 NEW_BOT_UP_DATE_FOUND = (
     "new update found for {branch_name}\n"
