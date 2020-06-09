@@ -30,7 +30,7 @@ from telethon.tl.types import MessageEntityMentionName
 from telethon import events
 
 from userbot.utils import admin_cmd
-
+from sql.global_variables_sql import SYNTAX, MODULE_LIST
 
 from contextlib import suppress
 import os
