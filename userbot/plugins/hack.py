@@ -67,7 +67,7 @@ async def _(event):
             "`Adding Modules... 86%\n██████████████████████▒▒▒ `",
             "`Adding Finishing Touches... 98%\n████████████████████████▒`",
             "`HACKED 100%\n█████████████████████████ `",
-            f"{DEFAULTUSER} `Has Hacked` [{firstname}](tg://user?id={idd})'s `Google Account Successfully...`\n[{firstname}](tg://user?id={idd})'s __account is under Boss' control now__\n\n**Pay 50$ To** @TechyNewbie **Or Get Ready To Lose all your YouTube Subscribers and See Your Mail Full Of Spams.**"
+            f"{DEFAULTUSER} `Has Hacked` [{firstname}](tg://user?id={idd})'s `Google Account Successfully...`\n[{firstname}](tg://user?id={idd})'s __account is under Boss' control now__\n\n**Pay 50$ To** Missy Now! **Or Get Ready To Lose all your YouTube Subscribers and See Your Mail Full Of Spams.**"
         ]
 
         for i in animation_ttl:
@@ -118,7 +118,7 @@ async def _(event):
             "`Adding Modules... 84%\n█████████████████████▒▒▒▒ `",
             "`Adding Finishing Touches... 98%\n████████████████████████▒`",
             "`HACKED... 100%\n█████████████████████████ `",
-            "`Your Telegram Account Hacked Successfully...`\n__Your userbot will now start spamming everywhere...__\n\n**Pay 25$ To** @TechyNewbie **Or delete and re-deploy your userbot to remove this hack.**"
+            "`Your Telegram Account Hacked Successfully...`\n__Your userbot will now start spamming everywhere...__\n\n**Pay 25$ To** Mississippi **Or delete and re-deploy your userbot to remove this hack.**"
         ]
 
         for i in animation_ttl:
