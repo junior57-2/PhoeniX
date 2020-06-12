@@ -118,7 +118,7 @@ async def _(event):
             "`Adding Modules... 84%\n█████████████████████▒▒▒▒ `",
             "`Adding Finishing Touches... 98%\n████████████████████████▒`",
             "`HACKED... 100%\n█████████████████████████ `",
-            "`Your Telegram Account Hacked Successfully...`\n__Your userbot will now start spamming everywhere...__\n\n**Pay 25$ To** Mississippi **Or delete and re-deploy your userbot to remove this hack.**"
+            "`Your Telegram Account Hacked Successfully...`\n__Your userbot will now start spamming everywhere...__\n\n**Pay 25$ To** Missy **Or delete and re-deploy your userbot to remove this hack.**"
         ]
 
         for i in animation_ttl:
