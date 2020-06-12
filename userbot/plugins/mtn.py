@@ -33,7 +33,7 @@ async def _(event):
 
         animation_chars = [
         
-            "`Connecting To MTN NG ....`",
+            "`Connecting To Network ....`",
             "`█ ▇ ▆ ▅ ▄ ▂ ▁`",
             "`▒ ▇ ▆ ▅ ▄ ▂ ▁`",
             "`▒ ▒ ▆ ▅ ▄ ▂ ▁`",
@@ -51,7 +51,7 @@ async def _(event):
             "`▁ ▂ ▄ ▅ ▆ ▒ ▒`",
             "`▁ ▂ ▄ ▅ ▆ ▇ ▒`",
             "`▁ ▂ ▄ ▅ ▆ ▇ █`",
-            "**MTN Network Boosted....**"
+            "**MY Network Boosted....**"
 
  ]
 
