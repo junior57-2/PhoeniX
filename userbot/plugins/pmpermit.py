@@ -13,10 +13,10 @@ CACHE = {}
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "**No name set yet nibba, check pinned message in** @XtraTgBot"
 USER_BOT_WARN_ZERO = "`You were spamming my peru master's inbox, henceforth your mouth has been blocked by my master's bot.` **Now GTFO, i'm BUSY** "
-USER_BOT_NO_WARN = ("[──▄█▀█▄─────────██ \n▄████████▄───▄▀█▄▄▄▄ \n██▀▼▼▼▼▼─▄▀──█▄▄ \n█████▄▲▲▲─▄▄▄▀───▀▄ \n██████▀▀▀▀─▀────────▀▀](t.me/zuccamm)\n\n"
-                    "`Hello, this is X-tra-Telegram Security Service.You have found your way here to my master,`"
+USER_BOT_NO_WARN = ("[──▄█▀█▄─────────██ \n▄████████▄───▄▀█▄▄▄▄ \n██▀▼▼▼▼▼─▄▀──█▄▄ \n█████▄▲▲▲─▄▄▄▀───▀▄ \n██████▀▀▀▀─▀────────▀▀](t.me/GL0BALCHAT)\n\n"
+                    "`Hello, this is My Bot responding, This is my Master,`"
                     f"{DEFAULTUSER}'s` inbox.\n\n"
-                    "Leave your name and reason or your message here and hopefully you'll get a reply within 24 hours. [Here](t.me/xMusicDump)`\n\n"
+                    "You can Talk to Me`[Here](t.me/GL0BALCHAT) \n\n"
                     "** Send** `/start` ** so that we can decide why you're here.**")
 
 
